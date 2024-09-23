@@ -20,8 +20,5 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=github,git,pycharm,googlecollab,jupyter,xd&perline=5)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syedaadan01&theme=dark)
-
-
 <br>
 ⭐️ From [syedaadan01](https://github.com/syedaadan01)
