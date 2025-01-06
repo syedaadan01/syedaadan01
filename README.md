@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Syeda Adan Fatima Giani</h1>
 
 - 🔭 I’m currently working on Deep Learning and Data Science 
-- 🌱 I’m currently learning LLMS
+- 🌱 I’m currently learning GenAI 
 - 💬 Ask me anything about ML,DL,DS
 - 📫 How to reach me: adan74881@gmail.com
 
